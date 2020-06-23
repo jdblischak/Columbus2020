@@ -80,7 +80,7 @@ A high level overview of these features:
 In the hopefully rare event that even more specific material is needed you can explore the following. Make use of the [hugo inheritance method](https://gohugo.io/templates/lookup-order/#hugo-layouts-lookup-rules-with-theme) to override defaults where applicable, rather than modify the defaults in place.
 
 ### CSS/style
-* Copy the base `hugo-satrdays-theme/static/css/style.css` into `/static/css/style.css`
+* Copy the base `hugo-satrdays-theme/static/css/satrday.css` into `/static/css/satrday.css`
   + This will now be the style sheet for your website, overriding the themes
   
 ### New Section/Custom Section
